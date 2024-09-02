@@ -23,7 +23,7 @@ const Footer = () => {
 				<AiFillTwitterCircle size={20} />
 			</a>
 			<a
-				href="https://discord.gg/1209637985440632935"
+				href="https://discord.gg/pathf(ai)nder"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
@@ -41,16 +41,16 @@ const Footer = () => {
 				<AiFillYoutube size={20} />
 			</a>
 			<a
-				href="https://bgwebagency.in"
+				href="https://www.google.com"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
-				aria-label="BG Web Agency website"
+				aria-label="google"
 			>
 				<TbWorldWww size={20} />
 			</a>
 			<a
-				href="https://www.instagram.com/pathfainder/"
+				href="https://www.instagram.com/pathfainder_/"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
@@ -59,7 +59,7 @@ const Footer = () => {
 				<AiFillInstagram size={20} />
 			</a>
 			<a
-				href="https://www.linkedin.com/in/thomas-berchet/"
+				href="https://www.linkedin.com/in/thomas-berchet-107043300/"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
