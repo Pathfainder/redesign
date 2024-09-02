@@ -18,11 +18,11 @@ export default function Home() {
 		<div className="mb-auto">
 			<div className="flex flex-col justify-center mt-8 md:mt-14 2xl:mt-40">
 				<h1 className="text-3xl md:text-5xl 2xl:text-6xl font-bold text-center leading-normal 2xl:leading-tight">
-					Redesign your home <br />
-					<span className="text-primary">with AI</span>
+					Redesignez votre maison <br />
+					<span className="text-primary">gràce l'IA !</span>
 				</h1>
 				<p className="text-center mt-6 text-gray-400">
-					No registration required. And entirely free!
+					Pas de connexion requise. Totalement GRATUIT !
 				</p>
 				<p className="text-center mt-6 text-gray-400">
 					<a
@@ -31,7 +31,7 @@ export default function Home() {
 						rel={'noopener'}
 						className="underline tracking-wider"
 					>
-						Learn How I built this
+						Tuto pour créer le même projet
 					</a>
 				</p>
 				<div className="flex gap-4 md:gap-6 justify-center">
@@ -43,7 +43,7 @@ export default function Home() {
 							}}
 							className="tracking-wider text-xs md:text-sm"
 						>
-							Redesign Room
+							Redesigner Pièce
 						</Button>
 					</div>
 					<div className="text-center mt-6">
@@ -55,7 +55,7 @@ export default function Home() {
 							layout="outline"
 							className="tracking-wider text-xs md:text-sm"
 						>
-							Redesign Building
+							Redesigner Bâtiment
 						</Button>
 					</div>
 				</div>
