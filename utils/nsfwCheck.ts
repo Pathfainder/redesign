@@ -14,7 +14,7 @@ class NSFWPredictor {
 	async loadModel() {
 		try {
 			this.model = await nsfwjs.load(
-				'https://redesign-omega.vercel.app/model/',
+				'/model/',
 				// @ts-ignore
 				{ type: 'graph' },
 			)
