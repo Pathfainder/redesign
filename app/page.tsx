@@ -34,7 +34,7 @@ export default function Home() {
 							}}
 							className="tracking-wider text-xs md:text-sm"
 						>
-							Redesigner Pièce
+							Pièce
 						</Button>
 					</div>
 					<div className="text-center mt-6">
@@ -46,7 +46,7 @@ export default function Home() {
 							layout="outline"
 							className="tracking-wider text-xs md:text-sm"
 						>
-							Redesigner Bâtiment
+							Fa&ccedil;ade
 						</Button>
 					</div>
 				</div>
