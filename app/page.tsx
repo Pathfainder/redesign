@@ -19,7 +19,7 @@ export default function Home() {
 			<div className="flex flex-col justify-center mt-8 md:mt-14 2xl:mt-40">
 				<h1 className="text-3xl md:text-5xl 2xl:text-6xl font-bold text-center leading-normal 2xl:leading-tight">
 					Redesignez votre maison <br />
-					<span className="text-primary">gràce l&#39IA !</span>
+					<span className="text-primary">gràce l&aposIA !</span>
 				</h1>
 				<p className="text-center mt-6 text-gray-400">
 					Pas de connexion requise. Totalement GRATUIT !
