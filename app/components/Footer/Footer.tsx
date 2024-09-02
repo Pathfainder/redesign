@@ -14,7 +14,7 @@ const Footer = () => {
 	return (
 		<footer className="flex justify-between md:justify-center md:gap-16 mt-20 mb-4">
 			<a
-				href="https://twitter.com/kirankdash"
+				href="https://twitter.com/pathfainder_"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
@@ -50,7 +50,7 @@ const Footer = () => {
 				<TbWorldWww size={20} />
 			</a>
 			<a
-				href="https://www.instagram.com/bgwebagency/"
+				href="https://www.instagram.com/pathfainder/"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
@@ -59,7 +59,7 @@ const Footer = () => {
 				<AiFillInstagram size={20} />
 			</a>
 			<a
-				href="https://www.linkedin.com/in/kiran-dash/"
+				href="https://www.linkedin.com/in/thomas-berchet/"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
