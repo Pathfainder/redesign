@@ -22,7 +22,7 @@ export default function Home() {
 					<span className="text-primary">grâce à l&apos;IA !</span>
 				</h1>
 				<p className="text-center mt-6 text-gray-400">
-					Uploadez vos photos de visites et permettez aux futurs acquereurs de se projeter dans un interieur redisigné !<br /><br />
+					Uploadez vos photos de visites et permettez aux futurs acquereurs de se projeter dans un foyer redéssiné !<br /><br />
 					<span className="text-primary">OFFRE DE LANCEMENT !!<br /><br />Pas de connexion requise. Totalement GRATUIT ..pour l&apos;instant ! ;) </span>
 				</p>
 				<div className="flex gap-4 md:gap-6 justify-center">
@@ -55,7 +55,7 @@ export default function Home() {
 				<div className="bg-white rounded-2xl p-2 2xl:p-4">
 					<Image
 						src={'/input2.jpg'}
-						alt="Original bedroom"
+						alt="Cuisine originale"
 						width={matches.xxl ? 400 : matches.md ? 250 : 300}
 						height={matches.xxl ? 400 : matches.md ? 250 : 300}
 					/>
@@ -63,7 +63,7 @@ export default function Home() {
 				<div className="bg-white rounded-2xl p-2 2xl:p-4">
 					<Image
 						src={'/input-modern-kitchen.jpg'}
-						alt="Predicted bedroom"
+						alt="Cuisine redesignée"
 						width={matches.xxl ? 400 : matches.md ? 250 : 300}
 						height={matches.xxl ? 400 : matches.md ? 250 : 300}
 					/>
