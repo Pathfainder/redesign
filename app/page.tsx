@@ -16,7 +16,7 @@ export default function Home() {
 
 	return (
 		<div className="mb-auto">
-			<div className="flex flex-col justify-center mt-8 md:mt-14 2xl:mt-30">
+			<div className="flex flex-col justify-center mt-8 md:mt-14 2xl:mt-20">
 				<h1 className="text-3xl md:text-5xl 2xl:text-6xl font-bold text-center leading-normal 2xl:leading-tight">
 					Redesignez votre maison <br />
 					<span className="text-primary">grâce à l&apos;IA !</span>
