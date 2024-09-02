@@ -23,7 +23,7 @@ const Footer = () => {
 				<AiFillTwitterCircle size={20} />
 			</a>
 			<a
-				href="https://discord.gg/pathf(ai)nder"
+				href="https://discord.gg/n27qEW2q"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
