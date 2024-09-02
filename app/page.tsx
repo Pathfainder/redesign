@@ -23,7 +23,7 @@ export default function Home() {
 				</h1>
 				<p className="text-center mt-6 text-gray-400">
 					Uploadez vos photos de visites et permettez aux futurs acquereurs de se projeter dans un interieur redisigné !<br /><br />
-					<span className="text-primary">OFFRE DE LANCEMENT !!<br /><br />Pas de connexion requise. Totalement GRATUIT ..pour l'instant ! ;) </span>
+					<span className="text-primary">OFFRE DE LANCEMENT !!<br /><br />Pas de connexion requise. Totalement GRATUIT ..pour l&apos;instant ! ;) </span>
 				</p>
 				<div className="flex gap-4 md:gap-6 justify-center">
 					<div className="text-center mt-6">
