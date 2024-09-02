@@ -22,7 +22,7 @@ export default function Home() {
 					<span className="text-primary">grâce à l&apos;IA !</span>
 				</h1>
 				<p className="text-center mt-6 text-gray-400">
-					Uploadez vos photos de visites et permettez aux futurs acquereurs de se projeter dans un interieur redisigné !<br />
+					Uploadez vos photos de visites et permettez aux futurs acquereurs de se projeter dans un interieur redisigné !<br /><br />
 					<span className="text-primary">Pas de connexion requise. Totalement GRATUIT !</span>
 				</p>
 				<p className="text-center mt-6 text-gray-400">
