@@ -23,7 +23,7 @@ const Footer = () => {
 				<AiFillTwitterCircle size={20} />
 			</a>
 			<a
-				href="https://discord.gg/62VR3MMCVm"
+				href="https://discord.gg/1209637985440632935"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
@@ -32,7 +32,7 @@ const Footer = () => {
 				<FaDiscord size={20} />
 			</a>
 			<a
-				href="https://www.youtube.com/@bgwebagency"
+				href="https://www.youtube.com/@pathfainder"
 				target="_blank"
 				rel="noreferrer"
 				className="hover:opacity-50 transition duration-150"
@@ -48,15 +48,6 @@ const Footer = () => {
 				aria-label="BG Web Agency website"
 			>
 				<TbWorldWww size={20} />
-			</a>
-			<a
-				href="https://www.tiktok.com/@bgwebagency"
-				target="_blank"
-				rel="noreferrer"
-				className="hover:opacity-50 transition duration-150"
-				aria-label="Tiktok"
-			>
-				<BsTiktok size={20} />
 			</a>
 			<a
 				href="https://www.instagram.com/bgwebagency/"
