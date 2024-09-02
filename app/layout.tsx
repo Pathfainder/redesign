@@ -35,22 +35,22 @@ export default function RootLayout({
 						href="/favicon-16x16.png"
 					/>
 					<link rel="manifest" href="/site.webmanifest" />
-					<title>Redesigner.io</title>
+					<title>Redesign</title>
 					<meta
 						name="description"
-						content="Redesign your house interior and exterior with AI for free!"
+						content="Redesignez votre intérieur ET votre éxterieur grâce à l'IA gratuitement !"
 					/>
 					<meta property="og:site_name" content="redesigner.io" />
 					<meta
 						property="og:description"
-						content="Redesign your house interior and exterior with AI for free"
+						content="Redesignez votre intérieur ET votre éxterieur grâce à l'IA gratuitement"
 					/>
-					<meta property="og:title" content="Redesigner" />
+					<meta property="og:title" content="Redesign" />
 					<meta name="twitter:card" content="summary_large_image" />
-					<meta name="twitter:title" content="Redesigner" />
+					<meta name="twitter:title" content="Redesign" />
 					<meta
 						name="twitter:description"
-						content="Redesign your house interior and exterior with AI for free!"
+						content="Redesignez votre intérieur ET votre éxterieur grâce à l'IA gratuitement !"
 					/>
 					<meta
 						property="og:image"
