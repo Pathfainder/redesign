@@ -64,7 +64,7 @@ export default function Home() {
 			<div className="flex justify-center gap-6 mt-10 md:mt-14 2xl:mt-20">
 				<div className="bg-white rounded-2xl p-2 2xl:p-4">
 					<Image
-						src={'/input.jpg'}
+						src={'/input2.jpg'}
 						alt="Original bedroom"
 						width={matches.xxl ? 400 : matches.md ? 250 : 300}
 						height={matches.xxl ? 400 : matches.md ? 250 : 300}
@@ -72,7 +72,7 @@ export default function Home() {
 				</div>
 				<div className="bg-white rounded-2xl p-2 2xl:p-4">
 					<Image
-						src={'/input-predicted.jpg'}
+						src={'/input-modern-kitchen.jpg'}
 						alt="Predicted bedroom"
 						width={matches.xxl ? 400 : matches.md ? 250 : 300}
 						height={matches.xxl ? 400 : matches.md ? 250 : 300}
