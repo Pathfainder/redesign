@@ -12,15 +12,6 @@ const Header = () => {
 				<h1 className="text-2xl md:text-4xl font-bold">Redesign</h1>
 			</Link>
 			<div className="flex flex-row gap-8">
-				<a
-					href="https://github.com/Pathfainder/redesign/"
-					target="_blank"
-					rel="noreferrer"
-					className="hover:opacity-50 transition duration-150"
-					aria-label="Github"
-				>
-					<AiFillGithub size={32} />
-				</a>
 				<div className="w-[2.5em] hover:cursor-pointer">
 					{theme === 'dark' ? (
 						<BsMoonStarsFill
