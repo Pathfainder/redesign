@@ -12,6 +12,10 @@ module.exports = greenhouse({
 			fontFamily: {
 				sans: ['Poppins', ...defaultTheme.fontFamily.sans],
 			},
+			colors: {
+				accent: '#b062ff',
+				primary: '#b062ff', // Updated primary color
+			},
 		},
 	},
 	plugins: [],
